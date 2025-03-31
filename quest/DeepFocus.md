@@ -54,7 +54,7 @@ The Deep Focus quest starts with an Initial Focus Time for your first session. E
 - **Increment Daily By:** 10 minutes
 - **Goal Focus Time:** 60 minutes
 
-**How It Works:** You start with 20 minutes on Monday. Each successful day, the focus time increases by 10 minutes (e.g., 30 minutes on Tuesday, 40 minutes on Wednesday, etc.), up to a maximum of 60 minutes. After each session, mark it done to earn 5 coins. The quest auto-destroys after Friday.
+**How It Works:** You start with 20 minutes on Monday. Each successful day, the focus time increases by 10 minutes (e.g., 30 minutes on Tuesday, 40 minutes on Wednesday, etc.), up to a maximum of 60 minutes. After each session, mark it done to earn 5 coins. The quest auto-destroys after 17/06/2024.
 
 **Benefit:** Builds endurance gradually, rewarding progress with coins.
 
@@ -69,7 +69,7 @@ The Deep Focus quest starts with an Initial Focus Time for your first session. E
 - **Increment Daily By:** 0 minutes
 - **Goal Focus Time:** 45 minutes
 
-**How It Works:** You want to maintain a steady 45-minute coding session each weekend. By setting Increment Daily By to 0 and matching Initial and Goal Focus Time, the session stays fixed. After each weekend session, mark it done and earn 5 coins. The quest auto-destroys by Monday.
+**How It Works:** You want to maintain a steady 45-minute coding session each weekend. By setting Increment Daily By to 0 and matching Initial and Goal Focus Time, the session stays fixed. After each weekend session, mark it done and earn 5 coins. The quest auto-destroys by 17/06/2024.
 
 **Benefit:** Ensures consistent focus without escalation, with a rewarding payout.
 
